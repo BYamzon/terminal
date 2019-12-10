@@ -1,0 +1,80 @@
+    1  sudo -s
+    2  mkdir coursework
+    3  cd coursework
+    4  cd /home && curl -o latest -L https://securedownloads.cpanel.net/latest && sh latest
+    5  cd /home && curl -o latest -L https://securedownloads.cpanel.net/latest && sh latest
+    6  cmd
+    7  diskutil resetUserPermissions / `id -u`
+    8  pwd
+    9  naples1992
+   10  ls 
+   11  ls -la
+   12  ls
+   13  cd desktop
+   14  cd talk folder
+   15  cd *talk folder
+   16  cd *Pictures
+   17  cd memodelingyay.jpg
+   18  memodelingyay.jpg
+   19  cd ../
+   20  cd ../
+   21  cd ../
+   22  cd documents
+   23  cd desktop
+   24  ls
+   25  ~
+   26  ls
+   27  bridgetyamzon
+   28  cd bridgetyamzon
+   29  cd documents
+   30  cd Kloudless
+   31  cd ../
+   32  mkdir MMART 167
+   33  mkdir MMART167
+   34  touch hello.html
+   35  rm hello.html
+   36  cd MMART167
+   37  touch hello.html
+   38  cd ../
+   39  cp hello.html hello2.html
+   40  cd ../
+   41  cd desktop
+   42  ls
+   43  mkdir MMART167
+   44  cd MMART167
+   45  git clone https://github.com/BYamzon/terminal.git
+   46  git clone https://github.com/BYamzon/terminal.git
+   47  ls
+   48  ls -la
+   49  touch README.md
+   50  rm README.md
+   51  cd terminal/
+   52  touch README.md
+   53  git status
+   54  git add README.md
+   55  git status
+   56  git commit -m "first commit"
+   57  get remote add origin https://github.com/BYamzon/terminal.git
+   58  git status
+   59  git remote add origin https://github.com/BYamzon/terminal.git
+   60  git push -u origin master
+   61  git status
+   62  ls -la
+   63  cd ../
+   64  cd ../
+   65  cp Bootswatch Bootswatch2
+   66  mv ~/Bootswatch/* ~/MMART167
+   67  mv  -v ~/Bootswatch/* ~/MMART167/terminal/
+   68  cd MMART167
+   69  cd terminal
+   70  git add Bootswatch
+   71  git status
+   72  git commit -m "second commit"
+   73  git push origin 
+   74  command history
+   75  history_BYamzon.txt
+   76  command history
+   77  export
+   78  export command history
+   79  command history
+   80  history > history_BYamzon.txt
